@@ -21,6 +21,9 @@ Rotor I: A  Rotor II: B  Rotor III: C<br />
 
 ## Steps to run
 
+To execute just do make on the console, this will make binary file main and then simply execute main.
+
+To make binaries manually, use below commands :-
 ```
     > g++ test.cpp enigma.cpp -o main
     > ./main
